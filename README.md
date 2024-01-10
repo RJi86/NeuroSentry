@@ -5,13 +5,11 @@
 <div align="center"> 
   Authors: Richard Ji
 
-  `Isensee, F., Jaeger, P. F., Kohl, S. A., Petersen, J., & Maier-Hein, K. H. (2021). nnU-Net: a self-configuring 
-method for deep learning-based biomedical image segmentation. Nature methods, 18(2), 203-211.`
-  
-<br/>
+    Isensee, F., Jaeger, P. F., Kohl, S. A., Petersen, J., & Maier-Hein, K. H. (2021). nnU-Net: a self-configuring 
+    method for deep learning-based biomedical image segmentation. Nature methods, 18(2), 203-211.
 <br/>
 
-  [![GitHub issues](https://img.shields.io/github/issues/RJi26/NeuroSentry?color=FFF700)](https://github.com/RJi26/NeuroSentry/issues) [![GitHub stars](https://img.shields.io/github/stars/RJi26/NeuroSentry)](https://github.com/RJi26/NeuroSentry/stargazers) [![GitHub license](https://img.shields.io/github/license/richardji1/PankVision-3D)](https://github.com/richardji1/PankVision-3D) ![PyPI - Python Version](https://img.shields.io/badge/python-3.9+-blue) ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 </div>
 
